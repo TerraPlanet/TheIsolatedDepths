@@ -1,0 +1,7 @@
+macro
+	Shift		return "RunStart"		//Key used to toggle using shift_step_size.
+	Shift+UP	return "RunStop"		//Key used to toggle using shift_step_size.
+	North+UP	return "NorthReleased"
+	East+UP		return "EastReleased"
+	South+UP	return "SouthReleased"
+	West+UP		return "WestReleased"
